@@ -1,0 +1,7 @@
+[package]
+name = "test_return_self"
+version = "0.1.0"
+edition = "2021"
+
+[[bench]]
+name = "bench"
